@@ -1,0 +1,35 @@
+{
+  "version": "1.1.5",
+  "notes": "## MetDiyet v1.1.5\n\nOtomatik güncelleme ile yüklenebilir.\n\n| Platform | Dosya |\n|----------|-------|\n| macOS ARM64 (M1/M2/M3) | `.dmg` |\n| macOS Intel | `.dmg` |\n| Windows x64 | `.exe` / `.msi` |",
+  "pub_date": "2026-05-19T19:37:46.950Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpVzF1UUJOVUJuOFJJSTVRanJMdVR3VVdVakltQkl3aG5jQ0s0UGlRa2JmRXlnR1pDTzFKdlJZOE12cG9lNVVEU3hpbTEzcDJuSXFnTDBWS3Q2OFY3eGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE4Nzc5CWZpbGU6TWV0RGl5ZXQuYXBwLnRhci5negpveTlsaDQ0dDIrK0Y2YWdDQkhjdDY4N0RMQXdGZVNqcmVVYUFaRmliK3p5eUtmYTVxNDZaSXVsaG96VWZUSmRqbmxGcmwxSE8rMTAwMkMzbjNCVjlBdz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpVzF1UUJOVUJuOFJJSTVRanJMdVR3VVdVakltQkl3aG5jQ0s0UGlRa2JmRXlnR1pDTzFKdlJZOE12cG9lNVVEU3hpbTEzcDJuSXFnTDBWS3Q2OFY3eGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE4Nzc5CWZpbGU6TWV0RGl5ZXQuYXBwLnRhci5negpveTlsaDQ0dDIrK0Y2YWdDQkhjdDY4N0RMQXdGZVNqcmVVYUFaRmliK3p5eUtmYTVxNDZaSXVsaG96VWZUSmRqbmxGcmwxSE8rMTAwMkMzbjNCVjlBdz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpV3o5bWtST3A5aEhZS0g5ZEpuN1Vob1ltdVJodGtRYlhGNnp5K0s3VTA1c29UTXkweFNLK0JFd2hMbHhFOCt0M1JTdktIWlBZeVpWK3pwTG1OUXhacndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE4OTExCWZpbGU6TWV0RGl5ZXQuYXBwLnRhci5negpDOU8yakhMR0w2WUI4YnRhTEFGTXFLRkh2SmFnb0FiaGJDak9qR3FvbS9EanVmcExKNnFrKzAzNmpYdlh3MnNYSEJqem53dTc5RkJEUXIycUVYWm1BZz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpV3o5bWtST3A5aEhZS0g5ZEpuN1Vob1ltdVJodGtRYlhGNnp5K0s3VTA1c29UTXkweFNLK0JFd2hMbHhFOCt0M1JTdktIWlBZeVpWK3pwTG1OUXhacndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE4OTExCWZpbGU6TWV0RGl5ZXQuYXBwLnRhci5negpDOU8yakhMR0w2WUI4YnRhTEFGTXFLRkh2SmFnb0FiaGJDak9qR3FvbS9EanVmcExKNnFrKzAzNmpYdlh3MnNYSEJqem53dTc5RkJEUXIycUVYWm1BZz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpVzlFZCtvVm9ma2c4T2FPZGlUVmdudXVyQUs3MHJmUkdhK2JuZGNSRlI1Yzc5ZFkra1V2QkZBUE8xRzFxeWU5aHpDUExhbnNuTThHVksrSEFSeUd3bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE5NDYyCWZpbGU6TWV0RGl5ZXRfMS4xLjVfeDY0X3RyLVRSLm1zaQpwSkhYcHk2bzRZTURUd25GSUZWdDB4NEdmZnVxeG8wZWZlb2RlbFVDWUNpSUlNL3pGTGlVKzRHT0dBRkRJbVRLTHIrenJyMTdvWVA4VTY0RXVzeXFDQT09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_1.1.5_x64_tr-TR.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpVzlFZCtvVm9ma2c4T2FPZGlUVmdudXVyQUs3MHJmUkdhK2JuZGNSRlI1Yzc5ZFkra1V2QkZBUE8xRzFxeWU5aHpDUExhbnNuTThHVksrSEFSeUd3bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE5NDYyCWZpbGU6TWV0RGl5ZXRfMS4xLjVfeDY0X3RyLVRSLm1zaQpwSkhYcHk2bzRZTURUd25GSUZWdDB4NEdmZnVxeG8wZWZlb2RlbFVDWUNpSUlNL3pGTGlVKzRHT0dBRkRJbVRLTHIrenJyMTdvWVA4VTY0RXVzeXFDQT09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_1.1.5_x64_tr-TR.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFVBWFdxV3FpVytiblNDa0pVT3R4TkZ5RDZvUE1Hc0RyczR3djNIdmhKYkxVSUt4NjR2OU1FWEc3VTdOeCs3Tlp2amJsSnJ1UDhod2syUlNrL215VndoNWI3OVlxandFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjE5NDYyCWZpbGU6TWV0RGl5ZXRfMS4xLjVfeDY0LXNldHVwLmV4ZQpNbTJjNStZYVBTMkxxOWoyYVE1SGc1ejgyVzROa3hhemtEeVZnR0F5LzVZVXpTWVE4bmc5Y2t2dExCMmJoZk1yRlNqMHJoN3NGZ293RDAyalBDVDlBQT09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/saglikli-tabak/releases/download/v1.1.5/MetDiyet_1.1.5_x64-setup.exe"
+    }
+  }
+}
