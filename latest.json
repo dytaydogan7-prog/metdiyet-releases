@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.1",
-  "notes": "Auto-updater düzeltmesi, sekme restore fix, dinamik versiyon gösterimi.",
+  "version": "v99.0.0",
+  "notes": "TEST \u2014 Bu g\u00fcncellemeyi kurmay\u0131n!",
   "pub_date": "2026-05-22T18:10:38Z",
   "platforms": {
     "darwin-aarch64": {
