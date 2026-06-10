@@ -1,19 +1,19 @@
 {
-  "version": "v26.6.20",
-  "notes": "Sağlıklı Tabak · MetDiyet v26.6.20",
-  "pub_date": "2026-06-10T16:45:28Z",
+  "version": "v26.6.22",
+  "notes": "Sağlıklı Tabak · MetDiyet v26.6.22",
+  "pub_date": "2026-06-10T20:30:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUE0vekV2dnB0RFV4UVJMQk5TUXpSd1ZyN0FabGZidDBOYjhnSUlHdXM4N3I0K1psc2NSVzZ5d0JxS2hnei9EMlhHODBpRXVBaVRvSVZmUmJ1ZWYyY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTA3OTQwCWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXQuYXBwLnRhci5nego2MEtjeWh6MHQyYnM3WFg1V2lEc05VOW5tTjdlS1p2L0YrTlA1K3BWQTA2ZHlxOHVmd3IvaE0zdVVIR1B4TVJuTHZuSnEzZ2NIbm55S1RpcCtyTVlCdz09Cg==",
-      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.20/Saglikli.Tabak.MetDiyet_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUE9sL1hpMHl0VkJ2VjdYSjUwWjdtaElieWgrdTBKblBOeWJUYWFqNjN3UkNRNkVQQ0pwL0lpaTBRbUpVclBNWlRKKzRkejV2cGJzVi9BaXhsQ0xobXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTIyNjAxCWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXQuYXBwLnRhci5negpFbG1yTk5uSmJlTFZod3dOb3Y4NDNLYnRXMWFReVpTU3R6NnNDSThSYU5zclo0MEpGWUVURWIzR293QkEyaHNwdW1yclUzMmZoOHQ5L0dXc1VqV1dCZz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.22/Saglikli.Tabak.MetDiyet_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUEI4bXpUMnBCVVhsMWh4NVg2ak01YjhLOXU3cWV3SklYdTRMempudTY5d1l6MG9rUURjNUNhZlB3WDYvbzgxM2h2Nmhha1g3TWRTRWhNbGw1QzVKUEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTA3OTI5CWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXQuYXBwLnRhci5nego2YmpPNnVZWm1MVVNDeHd5Sm5VZU01VW9tb3NpMThnVjU0bzNnM1lBQUZ0WXhpS0F3TTJhVkhHd0Y3aTFUN2RETG55NkR3dFJKQW5ZNXpCYnl4S0NDdz09Cg==",
-      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.20/Saglikli.Tabak.MetDiyet_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUERvakdJUm1kZzlqVStXY2pzUVBXY004dGhZczQxTUxtNEMvOVFnYTFibm1hRFBmUzlubzJSL2tGd0VsY3JXVTJqcmxqWERKNm5kV3lCTm04dnV4bVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTIyNjgxCWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXQuYXBwLnRhci5negpXM1MrNFM1WlMwSGtlZXBPTldxQytLVVoya2FsSE50NWswMU5rMFM3OWxSYWhqUWgwOWVhRnlwMXh4Z0FaVS8xZkIxNWxCSXo0WnN4V1YwdjBET0xCdz09Cg==",
+      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.22/Saglikli.Tabak.MetDiyet_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUEtRVENqc2JCNlhEbW1URm1mWElTd05JL2tVeUgvM1VJcEQzWEdGbWUxVWxVdEU1U0lJdmswVUtZNFpIelZkMUNpMHhYYVdVNVpFNW4rSmpiYlR5Y0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTA4MzMzCWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXRfMjYuNi4yMF94NjRfdHItVFIubXNpCm5ueG5RcW9ONnFlM25CSzVnU2xxRDR1MXRBYStqWXc1L2xId201WGhTdjE0T3pScndqdDQ0VDdBdEhsK2xhR0ptODJaUWQyUHhMeURsVGxzTGZENkNRPT0K",
-      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.20/Saglikli.Tabak.MetDiyet_26.6.20_x64_tr-TR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlliT3dYSDdjUEhrV2g2dm80NUJPYzRsUmw0eVZhQkZhY0NST0V5eXM5VStldUx2ZGhpd3orYzFhbm4waitKeTZkb0p6blM3T25iSzB3Z1hmcGRYRjJGTlp5NTZ5REFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTIzMjg2CWZpbGU6U2HEn2zEsWtsxLEgVGFiYWsgwrcgTWV0RGl5ZXRfMjYuNi4yMl94NjQtc2V0dXAuZXhlCm9aNUU4bk1xaFF2S1M0N05HNDVBeU5yOHU0RXdqOE9ReXZPclEzMWFQVHFRQ2tiQ1FKOUtZd1RxaitydStaeXBwbUxMTWR5TzExWVAxWjFtYlhhQUJ3PT0K",
+      "url": "https://github.com/dytaydogan7-prog/metdiyet-releases/releases/download/v26.6.22/Saglikli.Tabak.MetDiyet_26.6.22_x64-setup.exe"
     }
   }
 }
